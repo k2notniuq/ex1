@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 24px;
+    /* margin-bottom: 10px; */
+  }
+  
+  #instructions {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-size: 40px;
+  }
+
+  #plusIcon {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-weight: 100;
+  }
+
+  #test {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-weight: 100;
+  }
+
+  #instructions p {
+    text-align: center;
+  }
+
+  #result {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-size: 40px;
+    text-align: center;
+  }
+  html, body {margin: 0; height: 100%; overflow: hidden}
